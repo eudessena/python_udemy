@@ -4,8 +4,8 @@ operadores aritméticos
 ( " + ", " - ", " / ", " // ", " * ", " ** ", " % ", " () " )
 sendo...
 
-// --- divisão de resto inteiro
-% --- modulo da divisao (resto da divisao) - retorna o resto da divisão entre dois valores
+// --- divisão inteira -- retorna um resultado de divisão inteiro
+% --- modulo (resto da divisao) - retorna o resto da divisão entre dois valores
 () --- altera a precedência das operações
 """
 

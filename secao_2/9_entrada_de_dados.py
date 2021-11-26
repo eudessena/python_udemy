@@ -10,7 +10,7 @@ nome = input('qual o seu nome? ')
 print(f'o usuário digitou {nome} ' f' {type(nome)}')
 
 
-# EXemplos do casting para receber os dados via input e onverter para o tipo de dado desejado
+# EXemplos do casting para receber os dados via input e converter para o tipo de dado desejado
 
 idade = input('informe sua idade: ')
 ano_nasc = 2021 - int(idade)
