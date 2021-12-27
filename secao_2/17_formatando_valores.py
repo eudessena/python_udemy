@@ -8,9 +8,10 @@ formatando valores com modificadores
 
 : (caractere) ( < ou > ou ^) (quantidade )(tipo --> s,d,f)
 
-: o que vc quer que seja adicionado + onde + quantidade menos o valor da var
+o que vc quer que seja adicionado + onde + quantidade menos o valor da var
 
 onde o vai ser adicionado as casas
+
 > --> esquerda
 < --> direita
 ^ --> centro
