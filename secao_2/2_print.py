@@ -15,5 +15,3 @@ print('eudes', 'sena', end=' ')  # no fim do print nao vai ser executada nada, n
 
 print(702, 147, 321, sep='.', end='-')
 print(31)
-
-
