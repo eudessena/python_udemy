@@ -1,3 +1,7 @@
+# pipenv e virtualenv - gerenciadores de ambiente virtual ( onde estao binarios e modulos )
+# todo arquivo python é um modulo python
+
+
 print('linha 1')
 print('linha 2')
 print('linha 3')
