@@ -49,7 +49,7 @@ lista = ['noosa', 'mannn', 'nos que ta']
 for v1, v2 in enumerate(lista):
     print(f"indice/numerador {v1} valor {v2}")
 
-    # v1 ta enumerando "simplismente pegando o indice e mostrando"
+    # v1 ta enumerando os elementos
     # v2 ta mostrando o valor
 
 # acessando uma lista dentro de outra lista
