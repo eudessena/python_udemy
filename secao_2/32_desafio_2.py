@@ -22,3 +22,12 @@ digito 1 = 0             #
 
 
 """
+l = [3,4,5,6,7]
+for i,n in enumerate(l):
+    if n == 5:
+        continue
+    if i == 3:
+        break
+    print(f'posição: {i}', n)
+    
+    
