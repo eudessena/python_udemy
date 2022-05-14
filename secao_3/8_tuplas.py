@@ -93,11 +93,13 @@ estruturas com indices sao acessados por colchetes
 
 ex: lista = [1, 2, 3]
     tupla = (1, 2, 3)
+    dicionario = {'chave1': 'valor1', chave2: valor2, chave3: valor3}
     
     acessando....
     
     l = lista[1] --> saida numero 2
     t = tupla[2] --> saida numero 3
+    d = dicionario['chave2'] --> saida valor2
 
 
 
