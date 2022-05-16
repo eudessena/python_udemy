@@ -1,7 +1,0 @@
-"""
-compreensão de dicionários
-
-
-
-
-"""
